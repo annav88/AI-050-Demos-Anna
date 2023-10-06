@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anna\\Documents\\Courseware\\AI-050T00-ENU-Develop_Generative_AI\\DemosAnna\\M03\\console_apps\\azure-openai-image-dalle\\azure-openai-image-dalle.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anna\\Documents\\Courseware\\AI-050T00-ENU-Develop_Generative_AI\\DemosAnna\\M03\\console_apps\\azure-openai-image-dalle\\azure-openai-image-dalle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anna\\Documents\\Courseware\\AI-050T00-ENU-Develop_Generative_AI\\DemosAnna\\M03\\console_apps\\azure-openai-image-dalle\\azure-openai-image-dalle.csproj",
+        "projectName": "azure-openai-image-dalle",
+        "projectPath": "C:\\Users\\anna\\Documents\\Courseware\\AI-050T00-ENU-Develop_Generative_AI\\DemosAnna\\M03\\console_apps\\azure-openai-image-dalle\\azure-openai-image-dalle.csproj",
+        "packagesPath": "C:\\Users\\anna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anna\\Documents\\Courseware\\AI-050T00-ENU-Develop_Generative_AI\\DemosAnna\\M03\\console_apps\\azure-openai-image-dalle\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.AI.OpenAI": {
+              "target": "Package",
+              "version": "[1.0.0-beta.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
